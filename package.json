@@ -12,7 +12,7 @@
     "cheerio": "^1.0.0-rc.3",
     "glob": "^7.1.4",
     "koa": "^2.7.0",
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.7.5",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "turndown": "^5.0.3"
